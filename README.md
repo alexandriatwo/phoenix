@@ -1,8 +1,8 @@
-# Unicorn Pegasus
+# Phoenix
 
 Rigged glTF vehicle that an avatar can sit on and commandeer.
 
-![image](https://user-images.githubusercontent.com/64185677/169426852-f9b87bf8-9fe6-4639-b7d5-806b2ace9c11.png)
+https://skfb.ly/6vLBp
 
 ## Creating Vehicles:
 
