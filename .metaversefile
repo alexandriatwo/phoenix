@@ -1,6 +1,6 @@
 {
-  "name": "hovercraft",
-  "description": "unicornpegasus",
+  "name": "unicornpegasus",
+  "description": "unicorn-pegasus",
   "start_url": "unicornpegasus.glb",
   "components": [
     {
