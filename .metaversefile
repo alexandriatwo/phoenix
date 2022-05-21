@@ -1,7 +1,7 @@
 {
   "name": "hovercraft",
-  "description": "hovercraft",
-  "start_url": "hovercraft.glb",
+  "description": "unicorn-pegasus",
+  "start_url": "unicorn-pegasus.glb",
   "components": [
     {
       "key": "sit",
